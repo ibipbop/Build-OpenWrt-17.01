@@ -19,5 +19,3 @@ git clone -b 18.06 https://github.com/garypang13/luci-theme-edge.git package/luc
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/luci-app-jd-dailybonus
 git clone https://github.com/jerrykuku/luci-app-vssr.git  package/luci-app-vssr
-git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
-
