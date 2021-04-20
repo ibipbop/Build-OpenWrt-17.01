@@ -22,3 +22,4 @@ git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/luci-a
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/BCYDTZ/luci-app-UUGameAcc.git package/luci-app-UUGameAcc
+git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
